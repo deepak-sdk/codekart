@@ -1,0 +1,33 @@
+.date-time-container{
+    width: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: fit-content;
+    .date-container{
+        display: flex;
+        align-items: center;
+        .date-icon{
+            font-size: 15px;
+        }
+        h2{
+            font-size: 12px;
+            margin-left: 10px;
+        }
+    }
+    .time-container{
+        display: flex;
+        align-items: center;
+        .time-icon{
+            font-size: 15px;
+        }
+        h2{
+            font-size: 12px;
+            margin-left: 10px;
+        }
+    }
+}

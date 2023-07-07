@@ -1,0 +1,136 @@
+.view-ingredients-container {
+  a {
+    color: azure;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    top: 35px;
+  }
+  .ingredient-name-star {
+    margin-top: 100px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    height: 32px;
+    h1 {
+      color: #242424;
+    }
+    button {
+      color: white;
+      background: #51c452;
+      width: 30px;
+      height: 15px;
+      font-size: 10px;
+      border: none;
+      border-radius: 10px;
+      margin-left: 10px;
+    }
+  }
+  .ingre-text {
+    margin-left: 10px;
+    color: #a3a3a3;
+    font-size: 12px;
+    width: 320px;
+  }
+  .time-taken {
+    margin-top: 50px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    p {
+      margin-left: 10px;
+      font-size: 15px;
+      font-weight: 700;
+    }
+  }
+  .people {
+    margin-left: 10px;
+    h2 {
+      color: #1c1c1c;
+      font-size: 18px;
+      margin: 0;
+    }
+    p {
+      font-size: 10px;
+      color: #8a8a8a;
+      margin-top: 5px;
+    }
+  }
+  .vegetables-container {
+    margin-left: 10px;
+    max-width: 600px;
+    h2 {
+      color: #242424;
+      font-size: 15px;
+    }
+
+    .tables {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      .tables-veg {
+        display: flex;
+        justify-content: space-between;
+        p {
+          margin: 0;
+          margin-bottom: 10px;
+          font-size: 12px;
+          color: #1c1c1c;
+        }
+      }
+    }
+  }
+  .spices-container {
+    margin-left: 10px;
+    max-width: 600px;
+    h2 {
+      color: #242424;
+      font-size: 15px;
+    }
+    .tables {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      .tables-veg {
+        display: flex;
+        justify-content: space-between;
+        p {
+          margin: 0;
+          margin-bottom: 10px;
+          font-size: 12px;
+          color: #1c1c1c;
+        }
+      }
+    }
+  }
+  .appliances-container {
+    margin-left: 10px;
+    max-width: 600px;
+    h2 {
+      color: #242424;
+      font-size: 15px;
+    }
+    .tables {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      .tables-veg {
+        display: flex;
+        justify-content: space-between;
+        p {
+          margin: 0;
+          margin-bottom: 10px;
+          font-size: 12px;
+          color: #1c1c1c;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .view-ingredients-container {
+    margin-left: 90px;
+  }
+}

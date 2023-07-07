@@ -1,0 +1,20 @@
+.select-dishes-container{
+    background-color: white;
+    height: 50px;
+    .select-dishes{
+        color: black;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        .arrow-left{
+            margin-left: 10px;
+           font-size: 20px;
+            cursor: pointer;
+        }
+        h2{
+            font-size: 18px;
+            margin-left: 10px;
+            font-weight: 500;
+        }
+    }
+}
