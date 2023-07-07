@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codekart/static/css/main.a6a63532.css",
+    "main.js": "/codekart/static/js/main.d4c90a32.js",
+    "static/media/pngtree-herbal-ingredients-transparent-image-png-image_3206949-removebg-preview@2x.png": "/codekart/static/media/pngtree-herbal-ingredients-transparent-image-png-image_3206949-removebg-preview@2x.8d2349f3d458677d9d1c.png",
+    "static/media/Mask Group 17@2x.png": "/codekart/static/media/Mask Group 17@2x.8412037c8938ec1f08ed.png",
+    "static/media/Mask Group 19@2x.png": "/codekart/static/media/Mask Group 19@2x.233d0e46513cd88110a4.png",
+    "static/media/Select_date-01.svg": "/codekart/static/media/Select_date-01.b2792fe557e685da6d5c8588c8c45583.svg",
+    "static/media/Set_time-01.svg": "/codekart/static/media/Set_time-01.bdceadeaa5163fb61ed355b97ace4977.svg",
+    "static/media/Group 359.svg": "/codekart/static/media/Group 359.0b6694c185e318163056a31ad51c5adb.svg",
+    "index.html": "/codekart/index.html",
+    "static/media/star.svg": "/codekart/static/media/star.9fdc75830f5c8f265b25dfcbed249c48.svg",
+    "static/media/Group 1541.svg": "/codekart/static/media/Group 1541.860a0a2a09c54812ca54d639792815e6.svg",
+    "static/media/Path 786.svg": "/codekart/static/media/Path 786.edb89b5e60ff7ebc3f1deb03a7a81826.svg",
+    "main.a6a63532.css.map": "/codekart/static/css/main.a6a63532.css.map",
+    "main.d4c90a32.js.map": "/codekart/static/js/main.d4c90a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a63532.css",
+    "static/js/main.d4c90a32.js"
+  ]
+}
